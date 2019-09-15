@@ -1,7 +1,7 @@
 from tkinter import Tk
 from pdfviewer import PDFViewer
 
-
+# start project
 def main():
     root = Tk()
     PDFViewer()
